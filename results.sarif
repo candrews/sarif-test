@@ -28,7 +28,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "9"
           }
         },
         {
@@ -55,7 +55,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "8"
           }
         },
         {
@@ -82,7 +82,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "7"
           }
         },
         {
@@ -109,7 +109,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "6"
           }
         },
         {
@@ -136,7 +136,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "5"
           }
         },
         {
@@ -163,7 +163,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "4"
           }
         },
         {
@@ -217,7 +217,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "2"
           }
         },
         {
@@ -244,7 +244,7 @@
           ],
           "rank": 0.3,
           "properties": {
-            "security-severity": "3"
+            "security-severity": "1"
           }
         },
         {
